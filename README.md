@@ -23,30 +23,38 @@
 </div>
 
 ---
-
 ## ⚡ About Me
 
-```python
-class Dhanyashree:
+<div align="center">
 
-    role = "Robotics & AI Student"
+### 👩‍💻 A curious mind exploring the intersection of
 
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Analytics",
-        "NLP",
-        "Computer Vision",
-        "Robotics",
-        "AI × Healthcare"
-    ]
+**🤖 AI & Robotics**   •   **📊 Data & Analytics**   •   **🧠 NLP**   •   **👁️ Computer Vision**   •   **🏥 Healthcare**
 
-    mindset = "Learn → Build → Break → Debug → Repeat 🔁"
-```
+<br>
 
-I'm passionate about exploring **where AI meets real-world problems** — from robotics and engineering to data analytics, healthcare and defence applications.
+> 💡 **Curious enough to ask "what if?"**
+> 🔬 **Crazy enough to experiment.**
+> 💻 **Stubborn enough to make it work.**
 
-Currently experimenting with **ML, NLP, CNNs, Computer Vision, Generative AI, SQL and Data Visualization**.
+</div>
+
+### 🚀 Currently
+
+* 🎓 Pursuing **B.E. in Robotics & Artificial Intelligence**
+* 🧠 Exploring **Machine Learning, NLP, CNNs & Generative AI**
+* 📊 Building skills in **SQL, MySQL, Power BI & Tableau**
+* 🤖 Experimenting with **Robotics, Computer Vision & Digital Twins**
+* 🔬 Interested in **research + real-world AI applications**
+* 💼 Gained industry experience through internships at **Bosch & Bharat Electronics Limited (BEL)**
+
+### 🧩 My Workflow
+
+`💭 IDEA` → `🔬 EXPLORE` → `💻 BUILD` → `🐛 BREAK` → `🔧 DEBUG` → `🚀 IMPROVE`
+
+
+
+
 
 ---
 
