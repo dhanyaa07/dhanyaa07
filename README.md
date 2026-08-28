@@ -30,8 +30,7 @@ I'm a **Robotics & Artificial Intelligence student** who loves exploring the int
 
 My interests span from **Machine Learning and Deep Learning** to **NLP, CNNs, Computer Vision, Data Analytics and Cloud Computing**.
 
-I enjoy taking an idea → turning it into a working prototype → breaking it → debugging it → and somehow making it work. 😭
-
+I enjoy turning random ideas into projects that may or may not work — and then figuring out why they didn't 😭💻
 <div align="center">
 
 ### 🧠 AI + 📊 Data + 🤖 Robotics + 🔬 Research
@@ -96,7 +95,7 @@ Academic Performer
 
 </div>
 
-Worked on **Fractography and Intelligent Application for Data-Driven Decision Making**.
+Worked on **Intelligent Application for Data-Driven Decision Making**.
 
 ### 🔧 What I worked on
 
@@ -236,7 +235,7 @@ Worked on **Defence-oriented PDF Summarization and NLP**, exploring transformer-
 
 ## 🧠 FOCUS-BUDDY
 
-Interactive platform designed for children with ADHD.
+Interactive platform designed for children with ADHD done under consultation of psychiatrist
 
 **Features**
 
