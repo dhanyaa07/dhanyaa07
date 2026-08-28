@@ -1,186 +1,299 @@
-# Hey, I'm Dhanyashree 👋
+<div align="center">
 
-### 🤖 Robotics & AI Student | AI/ML Enthusiast | Data Explorer
+# 👋 Hey, I'm Dhanyashree!
 
-I'm a **Robotics & Artificial Intelligence student** interested in exploring where **AI meets different fields** — from robotics and data analytics to medicine, NLP and computer vision.
+### 🤖 Robotics & AI Student • AI/ML • Data Analytics • Research
 
-I like turning random ideas into projects that *may or may not work* — and then figuring out why they didn't 😭💻
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Robotics+%26+Artificial+Intelligence+Student;AI+%7C+ML+%7C+NLP+%7C+Computer+Vision;Data+Analytics+%7C+SQL+%7C+MySQL+%7C+Tableau;Building+projects+that+may+or+may+not+work+%F0%9F%98%AD;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Repeat" alt="Typing SVG" />
 
----
+<br>
 
-## 🏆 Academic Highlights
+<img src="https://komarev.com/ghpvc/?username=dhanyaa07&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-* 🥇 **State Rank Holder — 10th Grade**
-* 🥇 **State Rank Holder — 12th Grade**
-* 🎓 **B.E. in Robotics & Artificial Intelligence**
-* 📈 **Consistently ranked among the Top 10 students academically**
-* 💼 Completed **2 major industry internships** at **Bosch** and **Bharat Electronics Limited (BEL)**
+</div>
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-* 🤖 Exploring **Artificial Intelligence, Machine Learning & Robotics**
-* 📊 Interested in **Data Analytics & Data Science**
-* 🧠 Working with **NLP, CNNs & Computer Vision**
-* 🏥 Exploring **AI × Healthcare**
-* 🔬 Interested in **research-oriented projects**
-* 💡 Love experimenting with new ideas and technologies
-* 🚀 Learning, building, breaking & rebuilding
+## 🧠 AI × Robotics × Data
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+
+</div>
 
 ---
 
-## 💼 Industry Experience
+## ⚡ About Me
 
-### 🔹 Bosch Power Solutions
+```python
+class Dhanyashree:
+
+    role = "Robotics & AI Student"
+
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Analytics",
+        "NLP",
+        "Computer Vision",
+        "Robotics",
+        "AI × Healthcare"
+    ]
+
+    mindset = "Learn → Build → Break → Debug → Repeat 🔁"
+```
+
+I'm passionate about exploring **where AI meets real-world problems** — from robotics and engineering to data analytics, healthcare and defence applications.
+
+Currently experimenting with **ML, NLP, CNNs, Computer Vision, Generative AI, SQL and Data Visualization**.
+
+---
+
+# 🏆 Academic Highlights
+
+<div align="center">
+
+|     🥇 Achievement    |               📚 Academic               |
+| :-------------------: | :-------------------------------------: |
+| **State Rank Holder** |                10th Grade               |
+| **State Rank Holder** |                12th Grade               |
+|       **Top 10**      |      Consistent Academic Performer      |
+|           🎓          | B.E. Robotics & Artificial Intelligence |
+
+</div>
+
+---
+
+# 💼 Industry Experience
+
+<div align="center">
+
+### 🏢 BOSCH POWER SOLUTIONS
 
 **Industry Intern**
 
-Worked on ** Intelligent Application for Data-Driven Decision Making**, focusing on engineering data, document processing, data extraction and intelligent analytics.
+🔧 *Fractography & Intelligent Application for Data-Driven Decision Making*
 
-### 🔹 Bharat Electronics Limited (BEL)
+Engineering data • PDF processing • Data extraction • Intelligent analytics
+
+<br>
+
+### 🛰️ BHARAT ELECTRONICS LIMITED — BEL
 
 **Industry Intern**
 
-Worked on **Defence-oriented NLP and PDF Summarization**, experimenting with transformer-based models including **T5, Pegasus, BART, LED and Donut** for processing and summarizing large technical documents.
+📄 *Defence-oriented NLP & PDF Summarization*
+
+T5 • Pegasus • BART • LED • Donut • Transformer-based NLP
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Universe
 
-### 💻 Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,sql" />
-</p>
+### 💻 Programming
 
-### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=python,cpp,c" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
+### 🧠 AI / ML
 
-**Machine Learning • NLP • CNN • Computer Vision • Transformers • Generative AI**
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
-### 📊 Data & Analytics
+### 📊 Data
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,sklearn" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-**Pandas • NumPy • Scikit-learn • SQL • Power BI • Excel**
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 ### 🤖 Robotics
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ros" />
-</p>
+<img src="https://skillicons.dev/icons?i=ros" />
 
 **ROS • ROS2 • Gazebo • MoveIt • RViz • CoppeliaSim**
 
-### 🌐 Development & Tools
+### 🌐 Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,fastapi" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,fastapi" />
 
 **Streamlit • Gradio • FastAPI • Git • GitHub**
 
+</div>
+
 ---
 
-## 🚀 Featured Projects
+# 🚀 Things I've Built
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🧠 FOCUS-BUDDY
 
-An interactive platform designed for children with ADHD, featuring questionnaires, games, CBT-based activities, yoga, stories and progress tracking.
+Interactive platform designed for children with ADHD.
+
+🎯 Questionnaires
+🎮 Interactive games
+🧘 Yoga & activities
+📖 Stories
+🧠 CBT-based activities
+📊 Progress tracking
+
+</td>
+
+<td width="50%">
 
 ### 📄 Defence PDF Summarization
 
-Research-oriented NLP project exploring **T5, Pegasus, BART, LED and Donut** for summarizing large defence documents.
+Research-oriented NLP project for large defence documents.
 
-### 🔧 Intelligent Application for Data-Driven Decision Making
+🤖 T5
+🧠 Pegasus
+🔤 BART
+📚 LED
+👁️ Donut
 
-A data extraction and analytics application for engineering reports, converting **unstructured PDF information into structured datasets** for analysis and decision-making.
+</td>
+</tr>
 
-### 🤖 Predictive Maintenance & Digital Twin
+<tr>
+<td width="50%">
 
-A machine-learning-based predictive maintenance system using **temperature, vibration and IMU sensor data**, integrated with a robotics/digital-twin workflow.
+### 🔧 Intelligent Application
+
+Engineering report data extraction and analytics system.
+
+📄 PDF Processing
+📊 Data Extraction
+🗄️ Structured Data
+📈 Analytics
+
+</td>
+
+<td width="50%">
+
+### 🤖 Predictive Maintenance
+
+ML-based predictive maintenance + digital twin workflow.
+
+🌡️ Temperature
+📳 Vibration
+🧭 IMU
+🤖 Machine Learning
+🔄 Digital Twin
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
 
 ### 🛡️ SAFE-SIGHT-AI
 
-AI-powered computer vision project focused on intelligent safety monitoring and visual detection.
+Computer vision project focused on **intelligent safety monitoring and visual detection**.
+
+<div align="center">
+
+👁️ Computer Vision   •   🤖 AI   •   🎯 Object Detection   •   🛡️ Safety
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔬 Areas I'm Exploring
+# 🔬 My AI Playground
+
+<div align="center">
 
 ```text
-                 Artificial Intelligence
-                          │
-          ┌───────────────┼───────────────┐
-          ↓               ↓               ↓
-     Machine Learning    NLP       Computer Vision
-          │               │               │
-          └───────────────┼───────────────┘
-                          ↓
-                       Robotics
-                          │
-                          ↓
-               AI × Data × Healthcare
+                 🧠 ARTIFICIAL INTELLIGENCE
+                           │
+          ┌────────────────┼────────────────┐
+          ↓                ↓                ↓
+     🤖 MACHINE          🗣️ NLP          👁️ COMPUTER
+       LEARNING                           VISION
+          │                │                │
+          └────────────────┼────────────────┘
+                           ↓
+                     🦾 ROBOTICS
+                           │
+                           ↓
+                    📊 DATA ANALYTICS
+                           │
+                           ↓
+                 🏥 REAL-WORLD IMPACT
 ```
 
----
-
-## 📚 Currently Learning
-
-* 🗄️ SQL
-* 📊 Power BI & Tableau
-* 🧩 Data Structures & Algorithms
-* 🤖 Advanced Machine Learning
-* 🧠 NLP & Generative AI
-* 📈 Data Analytics
-* ☁️ AI & Cloud Technologies
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 📚 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanyaa07&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyaa07&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&center=true&vCenter=true&width=600&lines=SQL+%26+MySQL+%F0%9F%97%84%EF%B8%8F;Power+BI+%F0%9F%93%8A;Tableau+%F0%9F%93%88;Data+Analytics+%F0%9F%94%8D;Machine+Learning+%F0%9F%A4%96;NLP+%26+Generative+AI+%F0%9F%A7%A0;DSA+%F0%9F%A7%A9" />
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhanyaa07&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🌐 Let's Connect
+# 💡 My Philosophy
 
-<p align="center">
-  <a href="https://github.com/dhanyaa07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dhanyashree-n-0b2b72294/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:dhanayshree573@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+### `LEARN → BUILD → BREAK → DEBUG → IMPROVE → REPEAT`
+
+<br>
+
+> **"Curiosity turns ideas into projects."** 🧠
+
+</div>
 
 ---
 
-### 💭 A little about my coding life
+# 🌐 Let's Connect
 
-> Exploring AI, robotics, data & everything in between —
-> learning something new, building something weird,
-> and occasionally making the code behave. 🤖💻
+<div align="center">
 
-⭐ **If you find something interesting here, feel free to explore my repositories!**
+<a href="https://github.com/dhanyaa07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dhanyashree-n-0b2b72294/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dhanayshree573@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Thanks for stopping by!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Building+%F0%9F%A4%96;Learning+%F0%9F%A7%A0;Experimenting+%F0%9F%94%AC;Occasionally+breaking+the+code+%F0%9F%98%AD;But+always+learning+%F0%9F%9A%80" />
+
+<br><br>
+
+⭐ **Explore my repositories & let's build something interesting!**
+
+</div>
+
 
