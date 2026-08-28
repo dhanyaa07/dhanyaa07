@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Dhanyashree N!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9FF,100:00F5A0&height=220&section=header&text=Dhanyashree%20N&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%26%20Artificial%20Intelligence&descAlignY=60&descSize=20" width="100%"/>
 
-### 🤖 Robotics & AI Student | AI/ML | Data Analytics | NLP | Computer Vision
+# 👋 Hey, I'm Dhanyashree!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=700&lines=Robotics+%26+Artificial+Intelligence+Student;AI+%7C+ML+%7C+Deep+Learning+%7C+NLP;Data+Analytics+%7C+SQL+%7C+MySQL+%7C+Tableau;Building+AI+projects+with+real-world+applications;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Repeat+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=700&color=6C63FF&center=true&vCenter=true&width=700&lines=Robotics+%26+Artificial+Intelligence+Student;AI+%7C+ML+%7C+Deep+Learning+%7C+NLP;Data+Analytics+%7C+SQL+%7C+MySQL+%7C+Tableau;Computer+Vision+%7C+CNNs+%7C+Robotics;Building+ideas+into+real-world+projects+%F0%9F%9A%80" />
 
 <br>
 
@@ -16,69 +16,115 @@
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/dhanyaa07">
-<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github"/>
-</a>
-
 </div>
 
 ---
-
-# ⚡ WHO AM I?
-
-I'm a **Robotics & Artificial Intelligence student** who loves exploring the intersection of **AI, Data, Robotics and real-world applications**.
-
-My interests span from **Machine Learning and Deep Learning** to **NLP, CNNs, Computer Vision, Data Analytics and Cloud Computing**.
-
-I enjoy taking an idea → turning it into a working prototype → breaking it → debugging it → and somehow making it work. 😭
-
-<div align="center">
-
-### 🧠 AI + 📊 Data + 🤖 Robotics + 🔬 Research
-
-</div>
-
----
-
-# 🏆 ACADEMIC HIGHLIGHTS
-
-<div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### 🥇
+## ⚡ About Me
 
-**STATE RANK HOLDER**
+🎓 **Robotics & AI Student**
 
-10th Grade
+🤖 Exploring **AI, ML & Robotics**
+
+🧠 Passionate about **Deep Learning, NLP & CNNs**
+
+📊 Interested in **Data Analytics & Data Science**
+
+👁️ Exploring **Computer Vision**
+
+☁️ Learning **Cloud Computing**
+
+🏥 Interested in **AI × Healthcare**
+
+🔬 Love building **research-oriented projects**
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### 🥇
+## 🚀 My Mindset
 
-**STATE RANK HOLDER**
+<div align="center">
 
-12th Grade
+### 💭 Think
 
-</td>
+↓
 
-<td align="center" width="33%">
+### 🔍 Explore
 
-### 🏆
+↓
 
-**TOP 10**
+### 💻 Build
 
-Academic Performer
+↓
+
+### 🐛 Break
+
+↓
+
+### 🔧 Debug
+
+↓
+
+### 🚀 Improve
+
+</div>
+
+<br>
+
+> **Curiosity → Experimentation → Creation**
 
 </td>
 </tr>
 </table>
 
-### 🎓 B.E. Robotics & Artificial Intelligence
+---
+
+# 🏆 Academic Highlights
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+# 🥇
+
+### STATE RANK
+
+**10th Grade**
+
+</td>
+
+<td align="center" width="33%">
+
+# 🥇
+
+### STATE RANK
+
+**12th Grade**
+
+</td>
+
+<td align="center" width="33%">
+
+# 🏆
+
+### TOP 10
+
+**Academic Performer**
+
+</td>
+
+</tr>
+</table>
+
+### 🎓 B.E. — Robotics & Artificial Intelligence
 
 **Bangalore Institute of Technology • Bengaluru**
 
@@ -86,63 +132,80 @@ Academic Performer
 
 ---
 
-# 💼 INDUSTRY EXPERIENCE
+# 💼 Industry Experience
 
-<div align="center">
+<table>
+<tr>
 
-## 🏢 BOSCH POWER SOLUTIONS
+<td width="50%" valign="top">
+
+## 🏢 Bosch Power Solutions
 
 ### Data & Intelligent Application Intern
 
-</div>
+**Project:**
+*Fractography and Intelligent Application for Data-Driven Decision Making*
 
-Worked on **Fractography and Intelligent Application for Data-Driven Decision Making**.
+### 🔧 What I Worked On
 
-### 🔧 What I worked on
+📄 **Data Extraction**
 
-```text
-📄 PDF / Document Processing
-        ↓
-🔍 Data Extraction
-        ↓
-🧹 Data Cleaning
-        ↓
-🧩 Regex-based Information Extraction
-        ↓
-🗄️ Database Creation
-        ↓
-📊 Data Analysis
-        ↓
-🎨 Streamlit UI / UX
-```
+🧹 **Data Cleaning**
 
-### 🛠️ Technologies
+🔍 **Regex-based Extraction**
 
-**Python • Pandas • Regex • Streamlit • Data Extraction • Data Cleaning • UI/UX • Database Creation • Data Analytics**
+📊 **Data Processing**
 
----
+🗄️ **Database Creation**
 
-<div align="center">
+🎨 **UI/UX Design**
 
-## 🛰️ BHARAT ELECTRONICS LIMITED — BEL
+🌐 **Streamlit Application**
+
+🐍 **Python Development**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛰️ Bharat Electronics Limited
 
 ### AI / NLP Intern
 
-</div>
+### 🧠 Focus Areas
 
-Worked on **Defence-oriented PDF Summarization and NLP**, exploring transformer-based architectures for large technical documents.
+📄 Defence PDF Processing
 
-### 🧠 Models explored
+🗣️ Natural Language Processing
 
-`T5` • `Pegasus` • `BART` • `LED` • `Donut`
+🧠 Deep Learning
 
-### 🔬 Focus Areas
+🤗 Transformer Models
 
-**NLP • Transformers • Text Summarization • PDF Processing • Deep Learning • Defence Applications**
+### 🔬 Models Explored
+
+`T5`
+
+`Pegasus`
+
+`BART`
+
+`LED`
+
+`Donut`
+
+### 🎯 Focus
+
+**Defence • NLP • Summarization • AI**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🧠 MY AI / ML UNIVERSE
+# 🧠 AI / ML
 
 <div align="center">
 
@@ -150,29 +213,18 @@ Worked on **Defence-oriented PDF Summarization and NLP**, exploring transformer-
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-7B1FA2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-E91E63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-1565C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CNNs-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-00A8E8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF4081?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-7E57C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNNs-00BFA6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-3949AB?style=for-the-badge"/>
 
 </div>
 
-### 🔬 Areas I work with
-
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 🧬 Deep Learning
-* 🗣️ Natural Language Processing
-* 👁️ Computer Vision
-* 🧠 CNNs
-* 🤗 Transformers
-* ✨ Generative AI
-
 ---
 
-# 📊 DATA & ANALYTICS
+# 📊 Data Analytics
 
 <div align="center">
 
@@ -180,23 +232,24 @@ Worked on **Defence-oriented PDF Summarization and NLP**, exploring transformer-
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<br><br>
+
+**Data Extraction** • **Data Cleaning** • **Data Preprocessing** • **EDA** • **Visualization** • **Dashboarding**
 
 </div>
 
-### 📈 Data Skills
-
-`Data Extraction` • `Data Cleaning` • `Data Preprocessing` • `EDA` • `SQL` • `MySQL` • `Data Visualization` • `Dashboarding`
-
 ---
 
-# ☁️ CLOUD & DEVELOPMENT
+# ☁️ Cloud • Development • UI/UX
 
 <div align="center">
 
@@ -207,27 +260,33 @@ Worked on **Defence-oriented PDF Summarization and NLP**, exploring transformer-
 <img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX-FF4081?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Regex-6C63FF?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🤖 ROBOTICS
+# 🤖 Robotics
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ros" />
 
-<br>
+<br><br>
 
-`ROS` • `ROS2` • `Gazebo` • `RViz` • `MoveIt` • `CoppeliaSim`
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MoveIt-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RViz-00A8E8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CoppeliaSim-00BFA6?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 FEATURED WORK
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -236,9 +295,7 @@ Worked on **Defence-oriented PDF Summarization and NLP**, exploring transformer-
 
 ## 🧠 FOCUS-BUDDY
 
-Interactive platform designed for children with ADHD.
-
-**Features**
+An interactive platform designed for children with ADHD.
 
 🎯 Questionnaires
 🎮 Interactive Games
@@ -247,19 +304,15 @@ Interactive platform designed for children with ADHD.
 📖 Stories
 📊 Progress Tracking
 
-**Focus**
-
-`AI` `Healthcare` `Interactive Applications`
+**AI • Healthcare • Interactive Applications**
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📄 DEFENCE PDF SUMMARIZATION
+## 📄 Defence PDF Summarization
 
 Research-oriented NLP project for large defence documents.
-
-**Models**
 
 🤖 T5
 🧠 Pegasus
@@ -267,9 +320,7 @@ Research-oriented NLP project for large defence documents.
 📚 LED
 👁️ Donut
 
-**Focus**
-
-`NLP` `Deep Learning` `Transformers`
+**NLP • Deep Learning • Transformers**
 
 </td>
 
@@ -279,35 +330,33 @@ Research-oriented NLP project for large defence documents.
 
 <td width="50%" valign="top">
 
-## 🔧 INTELLIGENT APPLICATION
+## 🔧 Intelligent Application
 
 Engineering report extraction & analytics system.
 
-**Pipeline**
+📄 PDF Processing
+🔍 Regex Extraction
+🧹 Data Cleaning
+🗄️ Database Creation
+🎨 Streamlit UI/UX
 
-PDF → Extraction → Cleaning → Structured Data → Analytics
-
-**Focus**
-
-`Python` `Pandas` `Regex` `Streamlit` `Database`
+**Python • Pandas • Regex • Streamlit**
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🤖 PREDICTIVE MAINTENANCE
+## 🤖 Predictive Maintenance
 
-ML-powered predictive maintenance + digital twin workflow.
-
-**Data**
+ML-based predictive maintenance + digital twin workflow.
 
 🌡️ Temperature
 📳 Vibration
 🧭 IMU
+🧠 Machine Learning
+🔄 Digital Twin
 
-**Focus**
-
-`Machine Learning` `Robotics` `Digital Twin`
+**ML • Robotics • Sensor Data**
 
 </td>
 
@@ -319,79 +368,68 @@ ML-powered predictive maintenance + digital twin workflow.
 
 ## 🛡️ SAFE-SIGHT-AI
 
-Computer vision project focused on **intelligent safety monitoring and visual detection**.
+AI-powered computer vision project focused on **intelligent safety monitoring and visual detection**.
 
-`AI` • `Computer Vision` • `CNN` • `Object Detection` • `Safety`
+<br>
+
+`AI` • `CNN` • `Computer Vision` • `Object Detection` • `Safety`
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-# 🎯 WHAT I BRING
+# 🔬 My Tech Universe
 
 <div align="center">
 
-|     🧠 AI/ML    |  📊 Data |  🤖 Robotics  | 💻 Development |
-| :-------------: | :------: | :-----------: | :------------: |
-|        ML       |    SQL   |      ROS      |     Python     |
-|  Deep Learning  |   MySQL  |      ROS2     |    Streamlit   |
-|       NLP       |  Pandas  |     Gazebo    |     FastAPI    |
-|       CNN       |  Tableau |     MoveIt    |       Git      |
-| Computer Vision | Power BI | Digital Twins |     GitHub     |
+### 🧠 AI
+
+`AI` `ML` `Deep Learning` `NLP` `CNN` `Computer Vision` `Transformers`
+
+### 📊 DATA
+
+`Python` `Pandas` `NumPy` `SQL` `MySQL` `Tableau` `Power BI` `Excel`
+
+### 🤖 ROBOTICS
+
+`ROS` `ROS2` `Gazebo` `MoveIt` `RViz` `CoppeliaSim`
+
+### ☁️ DEVELOPMENT
+
+`Streamlit` `FastAPI` `Gradio` `Git` `GitHub` `Cloud Computing`
 
 </div>
 
 ---
 
-# 🔬 CURRENTLY EXPLORING
+# 📚 Currently Learning
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&color=FF69B4&center=true&vCenter=true&width=650&lines=Deep+Learning+%F0%9F%A7%A0;NLP+%26+Transformers+%F0%9F%97%A3%EF%B8%8F;Computer+Vision+%F0%9F%91%81%EF%B8%8F;Data+Analytics+%F0%9F%93%8A;SQL+%26+MySQL+%F0%9F%97%84%EF%B8%8F;Tableau+%26+Power+BI+%F0%9F%93%88;Cloud+Computing+%E2%98%81%EF%B8%8F;Advanced+Machine+Learning+%F0%9F%A4%96" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&color=6C63FF&center=true&vCenter=true&width=650&lines=Advanced+Machine+Learning+%F0%9F%A4%96;Deep+Learning+%F0%9F%A7%A0;NLP+%26+Transformers+%F0%9F%97%A3%EF%B8%8F;SQL+%26+MySQL+%F0%9F%97%84%EF%B8%8F;Tableau+%26+Power+BI+%F0%9F%93%8A;Cloud+Computing+%E2%98%81%EF%B8%8F;Data+Analytics+%F0%9F%93%88" />
 
 </div>
 
 ---
 
-# 💡 MY WORKFLOW
+# 💡 My Philosophy
 
 <div align="center">
 
-### 💭 IDEA
+## `💭 IDEA → 🔍 EXPLORE → 💻 BUILD → 🐛 BREAK → 🔧 DEBUG → 🚀 IMPROVE`
 
-↓
+<br>
 
-### 🔍 EXPLORE
-
-↓
-
-### 💻 BUILD
-
-↓
-
-### 🐛 BREAK
-
-↓
-
-### 🔧 DEBUG
-
-↓
-
-### 🚀 IMPROVE
-
-↓
-
-### 🧠 LEARN
+### ✨ Curious mind. Constant learner. Builder at heart.
 
 </div>
 
 ---
 
-# 🌐 LET'S CONNECT
+# 🌐 Let's Connect
 
 <div align="center">
 
@@ -409,19 +447,10 @@ Computer vision project focused on **intelligent safety monitoring and visual de
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ✨ Curious mind. Constant learner. Builder at heart.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Exploring+AI+%F0%9F%A4%96;Playing+with+Data+%F0%9F%93%8A;Building+with+Robotics+%F0%9F%A6%BE;Learning+something+new+every+day+%F0%9F%A7%A0;Making+the+code+behave...+sometimes+%F0%9F%98%AD" />
-
-<br>
-
-⭐ **Thanks for visiting!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9FF,100:00F5A0&height=120&section=footer" width="100%"/>
 
 </div>
-
-
-
