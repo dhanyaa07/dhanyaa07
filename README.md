@@ -49,7 +49,7 @@ I enjoy turning random ideas into projects that may or may not work — and then
 
 ### 🥇
 
-**STATE RANK HOLDER**
+**STATE 6TH RANK **
 
 10th Grade
 
@@ -59,7 +59,7 @@ I enjoy turning random ideas into projects that may or may not work — and then
 
 ### 🥇
 
-**STATE RANK HOLDER**
+**STATE TOP 20 RANK**
 
 12th Grade
 
