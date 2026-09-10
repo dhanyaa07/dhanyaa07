@@ -49,7 +49,7 @@ I enjoy turning random ideas into projects that may or may not work — and then
 
 ### 🥇
 
-**STATE 6TH RANK **
+**STATE 6TH RANK**
 
 10th Grade
 
