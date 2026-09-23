@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Dhanyashree N!
 
-### 🤖 Robotics & AI Student | AI/ML | Data Analytics | NLP | Computer Vision
+### 🤖 Robotics & AI Student | AI/ML | Data Analytics | NLP 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=700&lines=Robotics+%26+Artificial+Intelligence+Student;AI+%7C+ML+%7C+Deep+Learning+%7C+NLP;Data+Analytics+%7C+SQL+%7C+MySQL+%7C+Tableau;Building+AI+projects+with+real-world+applications;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Repeat+%F0%9F%94%A5" />
 
@@ -33,7 +33,7 @@ My interests span from **Machine Learning and Deep Learning** to **NLP, CNNs, Co
 I enjoy turning random ideas into projects that may or may not work — and then figuring out why they didn't 😭💻
 <div align="center">
 
-### 🧠 AI + 📊 Data + 🤖 Robotics + 🔬 Research
+### 🧠 AI + 📊 Data + 🤖 ML + 🔬 Research
 
 </div>
 
@@ -356,39 +356,7 @@ Computer vision project focused on **intelligent safety monitoring and visual de
 
 ---
 
-# 💡 MY WORKFLOW
 
-<div align="center">
-
-### 💭 IDEA
-
-↓
-
-### 🔍 EXPLORE
-
-↓
-
-### 💻 BUILD
-
-↓
-
-### 🐛 BREAK
-
-↓
-
-### 🔧 DEBUG
-
-↓
-
-### 🚀 IMPROVE
-
-↓
-
-### 🧠 LEARN
-
-</div>
-
----
 
 # 🌐 LET'S CONNECT
 
