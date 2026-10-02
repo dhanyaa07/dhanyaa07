@@ -133,7 +133,7 @@ Worked on **Defence-oriented PDF Summarization and NLP**, exploring transformer-
 
 ### 🧠 Models explored
 
-`T5` • `Pegasus` • `BART` • `LED` • `Donut`
+`T5` • `Pegasus` • `BART` • `LED` • `Donut` • `GenAi`
 
 ### 🔬 Focus Areas
 
