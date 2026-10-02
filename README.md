@@ -91,7 +91,7 @@ Academic Performer in BE
 
 ## 🏢 BOSCH POWER SOLUTIONS
 
-### Data & Intelligent Application Intern
+### AI DATA Intern
 
 </div>
 
@@ -191,7 +191,7 @@ Worked on **Defence-oriented PDF Summarization and NLP**, exploring transformer-
 
 ### 📈 Data Skills
 
-`Data Extraction` • `Data Cleaning` • `Data Preprocessing` • `EDA` • `SQL` • `MySQL` • `Data Visualization` • `Dashboarding`
+`Data Extraction` • `Data Cleaning` • `Data Preprocessing` • `EDA` • `SQL` • `MySQL` •  `Data Visualization` • `Dashboarding`
 
 ---
 
