@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,45:9333EA,100:EC4899&text=DHANYASHREE%20N&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20ENGINEERING%20%7C%20DATA%20ANALYSIS%20%7C%20NLP%20%7C%20RESEARCH&descSize=13&descAlignY=58&animation=fadeIn" />
 
 
