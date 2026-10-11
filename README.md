@@ -241,22 +241,17 @@ A document question-answering platform that allows users to upload documents and
 
 ### 📊 Analytics & Reporting
 
-- Tableau and Power BI
+- Tableau 
 - Data visualization and data cleaning
 - Statistics and reporting
+- POWERBI
+- DATA EXTRACTION
+- DATABASE CREATION
 
 </td>
 <td width="50%" valign="top">
 
-### 📋 Program & Delivery
 
-- Project planning and tracking
-- Agile/Scrum fundamentals
-- Stakeholder coordination
-- Requirements documentation
-- Status reporting
-- Risk and blocker management
-- Client communication
 
 </td>
 </tr>
