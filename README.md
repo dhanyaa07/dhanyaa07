@@ -1,439 +1,288 @@
-<div align="center">
 
-🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦
-
-<h1>👋 Hey, I'm Dhanyashree N!</h1>
-
-<h3>🤖 Robotics & AI Student · AI/ML · NLP · Data Analytics</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=800&color=7B2FF7&center=true&vCenter=true&width=800&lines=Final-year+B.E.+Robotics+%26+AI+%7C+CGPA+8.54;Interned+at+Bosch+India+%2B+Bharat+Electronics+Ltd;I+build+AI+%2F+LLM+products+end-to-end;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Repeat" alt="Final-year Robotics and AI student, interned at Bosch India and BEL"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/dhanyashree-n-0b2b72294/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:dhanyashree573@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/dhanyaa07"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00C853?style=flat-square" alt="Open to work"/>
-<img src="https://img.shields.io/badge/BENGALURU%2C%20INDIA-7B2FF7?style=flat-square" alt="Bengaluru, India"/>
-<img src="https://img.shields.io/badge/GRADUATING%202027-FF4D8D?style=flat-square" alt="Graduating 2027"/>
-
-<br/><br/>
-
-🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦
-
-</div>
-
-<br/>
-
-<!-- ===================== 01 ABOUT ===================== -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-ABOUT%20ME-7B2FF7?style=for-the-badge&labelColor=0D1117" alt="About Me"/>
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-### Hi, I'm Dhanyashree 👋
-
-I'm a final-year **Robotics & AI engineering student** who builds **AI and LLM solutions end-to-end**, from gathering requirements with stakeholders, to building the pipeline, to delivering it to real users.
-
-🏢 At **Bosch India**, I turned **20 years of unstructured records into a searchable repository** with an LLM chatbot.<br/>
-🛰️ At **BEL**, I built a **document summarization system** for defence personnel.<br/>
-🧠 I **co-designed a product with a child psychiatrist** and piloted it with schools and patients.
-
-</td>
-<td width="38%" valign="top" align="center">
-
-### 🎯 Looking for
-
-**AI / ML Engineering**<br/>
-**GenAI & LLM Applications**<br/>
-**NLP · Data Analytics**
-
-<sub>Internships & entry-level roles</sub>
-
-</td>
-</tr>
-</table>
+<!-- ═══════════════ HERO BANNER ═══════════════ -->
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F00FF,50:E100FF,100:00D4FF&text=DHANYASHREE%20N&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20GENERATIVE%20AI&descSize=15&descAlignY=58&animation=fadeIn" />
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+the+Making+%F0%9F%A4%96;Building+Intelligent+AI+Solutions+%F0%9F%A7%A0;Exploring+GenAI%2C+NLP+%26+RAG+%E2%9C%A8;Turning+Ideas+Into+Impactful+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
 <br/>
 
-<img src="https://img.shields.io/badge/CGPA-8.54-00C853?style=for-the-badge&labelColor=0D1117" alt="CGPA 8.54"/>
-<img src="https://img.shields.io/badge/BOSCH%20INDIA-AI%20%26%20Data%20Intern-FF4D8D?style=for-the-badge&labelColor=0D1117" alt="Bosch India"/>
-<img src="https://img.shields.io/badge/BEL-AI%2FML%20Intern-FFB400?style=for-the-badge&labelColor=0D1117" alt="BEL"/>
-<br/>
-<img src="https://img.shields.io/badge/DIGITAL%20TWIN-~93%25%20ACCURACY-00E5A0?style=for-the-badge&labelColor=0D1117" alt="93 percent accuracy"/>
-<img src="https://img.shields.io/badge/SSLC-STATE%206TH%20RANK-7B2FF7?style=for-the-badge&labelColor=0D1117" alt="State 6th Rank"/>
+<a href="https://github.com/dhanyaa07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-FF4B91?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<br/><br/>
-
-🟦🟩🟨🟧🟥🟪🟦🟩🟨🟧🟥🟪🟦🟩🟨🟧🟥🟪
+<img src="https://komarev.com/ghpvc/?username=dhanyaa07&style=flat-square&color=8A2BE2&label=PROFILE+VIEWS" />
 
 </div>
 
-<br/>
+---
 
-<!-- ===================== 02 EXPERIENCE ===================== -->
-<div align="center">
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
 
-<img src="https://img.shields.io/badge/02-EXPERIENCE-FF4D8D?style=for-the-badge&labelColor=0D1117" alt="Experience"/>
+<h2 align="center">🌈 ABOUT ME</h2>
 
-</div>
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<br/>
+👋 Hi! I'm **Dhanyashree N**, an aspiring AI/ML engineer passionate about building intelligent and meaningful technology.
+
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🧠 Exploring Generative AI, NLP, LLMs and RAG
+- 💻 Building practical AI-powered applications
+- 🔬 Interested in research, experimentation and innovation
+- 🚀 Always learning, building and improving
+- 🤝 Open to collaborating on impactful technology projects
+
+<br clear="right"/>
+
+---
+
+<!-- ═══════════════ EXPERIENCE ═══════════════ -->
+
+<h2 align="center">💼 EXPERIENCE & LEARNING</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 Bosch India
-**Application AI & Data Engineer Intern**<br/>
-<img src="https://img.shields.io/badge/Feb%202026%20%E2%80%93%20Apr%202026-00D9FF?style=flat-square&labelColor=0D1117" alt="Feb 2026 - Apr 2026"/>
+<h3 align="center">🏢 Bosch India</h3>
+<p align="center">
+<b>AI / ML Internship</b>
+</p>
 
-- 🚀 Owned the project end-to-end, from vibration-data requirements with stakeholders to a working **Streamlit** app
-- 📚 Converted **20 years of unstructured records** from **200+ PDF reports** into a structured, searchable repository
-- 💬 Integrated an **LLM chatbot** so non-technical users can upload, store and query data in natural language
-- 🤝 Coordinated setup, integration and configuration, and documented the workflow for handover
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/LLM-7B2FF7?style=flat-square" alt="LLM"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+Exploring real-world engineering challenges and applying technical knowledge to practical problems.
 
 </td>
 <td width="50%" valign="top">
 
-### 🛰️ Bharat Electronics Limited
-**AI/ML Engineer Intern · Software SBU**<br/>
-<img src="https://img.shields.io/badge/Jul%202025%20%E2%80%93%20Aug%202025-FF4D8D?style=flat-square&labelColor=0D1117" alt="Jul 2025 - Aug 2025"/>
+<h3 align="center">⚡ Bharat Electronics Limited</h3>
+<p align="center">
+<b>Technical Experience</b>
+</p>
 
-- 🔬 Researched and compared **BART, Pegasus, LED, T5** and **GenAI-based** summarizers on quality, context retention and long-document handling
-- 🛡️ Built and delivered a **summarization system for defence personnel** based on the findings
-- 🎤 Presented results and recommendations to stakeholders
-
-<img src="https://img.shields.io/badge/NLP-1565C0?style=flat-square" alt="NLP"/>
-<img src="https://img.shields.io/badge/Transformers-FFB400?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers"/>
-<img src="https://img.shields.io/badge/GenAI-E91E63?style=flat-square" alt="GenAI"/>
-<img src="https://img.shields.io/badge/Summarization-00897B?style=flat-square" alt="Summarization"/>
+Learning about engineering systems, technical workflows and industry applications.
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+---
 
-<br/>
+<!-- ═══════════════ TECH STACK ═══════════════ -->
 
-🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦
+<h2 align="center">⚡ TECH ARSENAL</h2>
 
-</div>
+<h3 align="center">💻 Programming Languages</h3>
 
-<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark" />
+</p>
 
-<!-- ===================== 03 PROJECTS ===================== -->
-<div align="center">
+<h3 align="center">🧠 AI / ML & Data</h3>
 
-<img src="https://img.shields.io/badge/03-FEATURED%20PROJECTS-00E5A0?style=for-the-badge&labelColor=0D1117" alt="Featured Projects"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-FF4B91?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-00A6A6?style=for-the-badge" />
+</p>
 
-</div>
+<h3 align="center">🌐 Development & Tools</h3>
 
-<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,docker&theme=dark" />
+</p>
+
+---
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
+
+<p align="center">
+<i>Ideas transformed into intelligent, practical solutions.</i>
+</p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Focus Buddy
-<sub>Emotion-aware support platform for children aged 5–12 with ADHD</sub>
+<h3 align="center">🧠 Focus Buddy</h3>
 
-- 🎮 ADHD screening, cognitive games, CBT activities
-- 😊 Emotion detection, parent–psychiatrist login, weekly reports
-- 🩺 Co-designed with a child psychiatrist; piloted with schools and patients
+<p align="center">
+<img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/Wellness-FF4B91?style=flat-square" />
+</p>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Face--API.js-7B2FF7?style=flat-square" alt="Face-API.js"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+An AI-focused application designed around focus, engagement and supportive user experiences.
 
-[🔗 **View Project**](https://github.com/dhanyaa07?tab=repositories) <!-- replace with repo link -->
+<p align="center">
+<a href="https://github.com/dhanyaa07?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7F00FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 📄 IntelliDoc AI
-<sub>RAG-based document intelligence platform · live web app</sub>
+<h3 align="center">📚 IntelliDoc AI</h3>
 
-- 💬 Upload documents and ask questions in natural language
-- 📌 Every answer shows its **source page number** for easy verification
-- 🧩 Pipeline: extraction → chunking → embeddings → vector search → LLM
+<p align="center">
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-00A6A6?style=flat-square" />
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/RAG-E91E63?style=flat-square" alt="RAG"/>
-<img src="https://img.shields.io/badge/Embeddings-7B2FF7?style=flat-square" alt="Embeddings"/>
-<img src="https://img.shields.io/badge/Vector%20DB-00897B?style=flat-square" alt="Vector DB"/>
+An AI document intelligence concept focused on helping users retrieve and understand information from documents.
 
-[🔗 **Live Demo**](https://github.com/dhanyaa07?tab=repositories) <!-- replace with live demo link -->
+<p align="center">
+<a href="https://github.com/dhanyaa07?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00A6A6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📡 TeleRAG
-<sub>Telecom support chatbot using vector RAG</sub>
+<h3 align="center">🤖 AI / ML Experiments</h3>
 
-- 🗂️ Answers billing, SIM, connectivity and roaming queries from **3 sources**: FAQs, resolved tickets, PDF guides
-- ⚙️ `all-MiniLM-L6-v2` → ChromaDB → **Qwen3-32B via Groq**
-- 🖥️ Shipped with a Streamlit UI and a CLI
+<p align="center">
+<img src="https://img.shields.io/badge/Machine_Learning-FF8C42?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+</p>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+Experiments and implementations exploring machine learning techniques and intelligent applications.
 
-[🔗 **View Project**](https://github.com/dhanyaa07?tab=repositories) <!-- replace with repo link -->
+<p align="center">
+<a href="https://github.com/dhanyaa07?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20REPOS-FF8C42?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 CloudSpend
-<sub>AI-powered expense tracker</sub>
+<h3 align="center">✨ More Projects</h3>
 
-- 🔐 Authentication, budgeting, categorization and spending alerts
-- 📊 Interactive dashboards for usage and spending visibility
-- 🤖 LLM assistant + Firebase for personalized insights
+<p align="center">
+<img src="https://img.shields.io/badge/Innovation-E100FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Building-00D4FF?style=flat-square" />
+</p>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/LLM-7B2FF7?style=flat-square" alt="LLM"/>
+Discover more of my experiments, repositories and ongoing development work.
 
-[🔗 **View Project**](https://github.com/dhanyaa07?tab=repositories) <!-- replace with repo link -->
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 🤖 ROS-Based Agentic Digital Twin
-<sub>Sensor analytics for machine monitoring & predictive maintenance</sub>
-
-ROS2 + Gazebo digital twin using simulated sensor data · **Random Forest classifier, ~93% accuracy**
-
-<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2"/>
-<img src="https://img.shields.io/badge/Gazebo-FF6F00?style=flat-square" alt="Gazebo"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-
-[🔗 **View Project**](https://github.com/dhanyaa07?tab=repositories) <!-- replace with repo link -->
+<p align="center">
+<a href="https://github.com/dhanyaa07?tab=repositories">
+<img src="https://img.shields.io/badge/ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 </td>
 </tr>
 </table>
 
+---
+
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+
+<h2 align="center">📊 GITHUB DASHBOARD</h2>
+
 <div align="center">
 
-<br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhanyaa07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=00D9FF&icon_color=FF4B91" />
 
-🟦🟩🟨🟧🟥🟪🟦🟩🟨🟧🟥🟪🟦🟩🟨🟧🟥🟪
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyaa07&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=00D9FF" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=dhanyaa07&theme=tokyonight&hide_border=true&border_radius=15&ring=FF4B91&fire=FF8C42&currStreakLabel=00D9FF" />
 
 </div>
 
-<br/>
+---
 
-<!-- ===================== 04 SKILLS ===================== -->
+<!-- ═══════════════ CONTRIBUTIONS ═══════════════ -->
+
+<h2 align="center">🐍 MY CONTRIBUTION JOURNEY</h2>
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/04-TECH%20STACK-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Tech Stack"/>
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation" />
 
-<br/><br/>
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,js,nodejs,react,firebase,mysql,sqlite,aws,git,github,ros&perline=14" alt="Tech icons"/>
+---
 
-<br/><br/>
+<!-- ═══════════════ CURRENT FOCUS ═══════════════ -->
+
+<h2 align="center">🎯 WHAT I'M FOCUSING ON</h2>
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td align="center" width="33%">
 
-#### 🧠 AI / ML
-NLP · LLMs · RAG<br/>
-Embeddings<br/>
-Vector DBs (ChromaDB)<br/>
-Transformers<br/>
-Prompt Engineering<br/>
-Agentic AI<br/>
-scikit-learn · TensorFlow · PyTorch
+### 🧠 AI & ML
+
+Machine learning, intelligent systems and model experimentation.
 
 </td>
-<td valign="top" width="25%">
+<td align="center" width="33%">
 
-#### 📊 Data
-SQL (MySQL, Oracle)<br/>
-Tableau · Power BI<br/>
-Data Cleaning<br/>
-Data Visualization<br/>
-Statistics
+### ✨ Generative AI
+
+LLMs, retrieval-augmented generation and AI-powered applications.
 
 </td>
-<td valign="top" width="25%">
+<td align="center" width="33%">
 
-#### 💻 Engineering
-Python · JavaScript<br/>
-LangChain · Streamlit<br/>
-REST APIs · Firebase<br/>
-AWS · Copilot Studio<br/>
-Git / GitHub · ROS2
+### 🛠️ Building
 
-</td>
-<td valign="top" width="25%">
-
-#### 🤝 Delivery
-Stakeholder Coordination<br/>
-Requirement Docs<br/>
-Agile / Scrum<br/>
-Status Reporting<br/>
-Risk & Blocker Mgmt<br/>
-Client Communication
+Turning concepts into useful projects and continuously improving my skills.
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://img.shields.io/badge/LLMs-7B2FF7?style=for-the-badge" alt="LLMs"/>
-<img src="https://img.shields.io/badge/RAG-E91E63?style=for-the-badge" alt="RAG"/>
-<img src="https://img.shields.io/badge/NLP-1565C0?style=for-the-badge" alt="NLP"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?style=for-the-badge" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+<!-- ═══════════════ CONNECT ═══════════════ -->
 
-<br/><br/>
+<h2 align="center">💌 LET'S CONNECT</h2>
 
-🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦
+<p align="center">
+I'm always excited to connect with developers, exchange ideas and collaborate on interesting projects.
+</p>
 
-</div>
-
-<br/>
-
-<!-- ===================== 05 EDUCATION & LEADERSHIP ===================== -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/05-EDUCATION%20%26%20LEADERSHIP-FFB400?style=for-the-badge&labelColor=0D1117" alt="Education and Leadership"/>
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Education
-
-**B.E. Robotics & Artificial Intelligence**<br/>
-Bangalore Institute of Technology (VTU)<br/>
-<img src="https://img.shields.io/badge/CGPA-8.54-00C853?style=flat-square" alt="CGPA 8.54"/>
-<img src="https://img.shields.io/badge/2023%20%E2%80%93%202027-7B2FF7?style=flat-square" alt="2023 - 2027"/>
-
-**Pre-University (PCMC)**<br/>
-MES Kishore Kendra PU College<br/>
-<img src="https://img.shields.io/badge/92.5%25-00D9FF?style=flat-square" alt="92.5%"/>
-<img src="https://img.shields.io/badge/2021%20%E2%80%93%202023-7B2FF7?style=flat-square" alt="2021 - 2023"/>
-
-**SSLC**<br/>
-Hymamshu Jyothi Kala Peetha<br/>
-<img src="https://img.shields.io/badge/98.72%25-FFB400?style=flat-square" alt="98.72%"/>
-<img src="https://img.shields.io/badge/State%206th%20Rank-FF4D8D?style=flat-square" alt="State 6th Rank"/>
-
-🏅 **4th Rank** · National-Level Mathematics & Kannada Olympiad
-
-</td>
-<td width="50%" valign="top">
-
-### 🌟 Leadership & Community
-
-🤖 **Head, Student Welfare & Skill Development**<br/>
-<sub>RoboCell, BIT · planned and coordinated student programs across teams</sub>
-
-🌱 **Director, Area of Focus**<br/>
-<sub>Rotaract Club of Golden Rock · led community and environment initiatives with multiple stakeholders</sub>
-
-📣 **Social Media Coordinator**<br/>
-<sub>Dept. of Robotics & AI and RoboCell, BIT</sub>
-
-🗣️ **Languages**<br/>
-<img src="https://img.shields.io/badge/English-0A66C2?style=flat-square" alt="English"/>
-<img src="https://img.shields.io/badge/Kannada-FF4D8D?style=flat-square" alt="Kannada"/>
-<img src="https://img.shields.io/badge/Hindi-FFB400?style=flat-square" alt="Hindi"/>
-<img src="https://img.shields.io/badge/German-00C853?style=flat-square" alt="German"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://github.com/dhanyaa07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-FF4B91?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 <div align="center">
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:E100FF,100:7F00FF&height=120&section=footer" />
 
-🟦🟩🟨🟧🟥🟪🟦🟩🟨🟧🟥🟪🟦🟩🟨🟧🟥🟪
-
-</div>
-
-<br/>
-
-<!-- ===================== 06 EXPLORING ===================== -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/06-CURRENTLY%20EXPLORING-E91E63?style=for-the-badge&labelColor=0D1117" alt="Currently exploring"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Advanced%20LLM%20Apps-7B2FF7?style=for-the-badge" alt="Advanced LLM Apps"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-FF4D8D?style=for-the-badge" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-00897B?style=for-the-badge" alt="Computer Vision"/>
-<img src="https://img.shields.io/badge/Cloud%20%26%20MLOps-4285F4?style=for-the-badge" alt="Cloud and MLOps"/>
-
-<br/><br/>
-
-🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦
-
-</div>
-
-<br/>
-
-<!-- ===================== 07 CONNECT ===================== -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/07-LET'S%20CONNECT-7B2FF7?style=for-the-badge&labelColor=0D1117" alt="Let's Connect"/>
-
-<br/><br/>
-
-Open to **internships, full-time roles and collaborations** in AI/ML, GenAI and Data Analytics.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/dhanyashree-n-0b2b72294/"><img src="https://img.shields.io/badge/LinkedIn-Dhanyashree%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:dhanyashree573@gmail.com"><img src="https://img.shields.io/badge/Email-dhanyashree573%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/dhanyaa07"><img src="https://img.shields.io/badge/GitHub-dhanyaa07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br/><br/>
-
-**✨ Curious mind · Constant learner · Builder at heart**
-
-<br/>
-
-🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦
+### ✨ *Dream. Build. Learn. Repeat.* ✨
 
 </div>
