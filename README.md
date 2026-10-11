@@ -1,4 +1,4 @@
-HEY FLOCKS ! THIS IS DHANYAA
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FFB400,35:FF4D8D,70:7B2FF7,100:00D9FF&section=footer" width="100%" alt="footer"/> </div>
 <!-- ===================================================== DHANYASHREE N · GitHub Profile README Palette: Cyan #00D9FF · Violet #7B2FF7 · Pink #FF4D8D · Amber #FFB400 · Mint #00E5A0 ===================================================== --> <div align="center"> <!-- HERO BANNER --> <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:00D9FF,35:7B2FF7,70:FF4D8D,100:FFB400&text=Dhanyashree%20N&fontColor=ffffff&fontSize=64&fontAlignY=40&desc=AI%20%26%20LLM%20Engineer%20%E2%80%A2%20RAG%20%E2%80%A2%20NLP%20%E2%80%A2%20Data%20Analytics&descSize=19&descAlignY=62&animation=fadeIn" width="100%" alt="Dhanyashree N banner"/> <!-- TYPING INTRO --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=FF4D8D&center=true&vCenter=true&width=820&lines=Final-year+B.E.+Robotics+%26+AI+%E2%9C%A8+CGPA+8.54;Interned+at+Bosch+India+%2B+Bharat+Electronics+Ltd;I+build+AI+%2F+LLM+products+end-to-end+for+real+users;Open+to+AI%2FML+%C2%B7+GenAI+%C2%B7+Data+roles+%F0%9F%9A%80" alt="Typing intro"/> <br/> <!-- STATUS PILLS --> <img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-00C853?style=for-the-badge&labelColor=0D1117"/> <img src="https://img.shields.io/badge/%F0%9F%93%8D%20BENGALURU%2C%20INDIA-00D9FF?style=for-the-badge&labelColor=0D1117"/> <img src="https://img.shields.io/badge/%F0%9F%8E%93%20GRADUATING%202027-7B2FF7?style=for-the-badge&labelColor=0D1117"/> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20%C2%B7%20ML%20%C2%B7%20LLM-FF4D8D?style=for-the-badge&labelColor=0D1117"/>
 
@@ -10,7 +10,7 @@ HEY FLOCKS ! THIS IS DHANYAA
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dhanyaa07&label=Profile%20Views&color=7B2FF7&style=flat-square" alt="Profile views"/> </div> <br/> <!-- ===================== ABOUT ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:7B2FF7,100:FF4D8D&text=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20About%20Me&fontColor=ffffff&fontSize=26" width="100%" alt="About Me"/> </div> <br/> <div align="center"> <table> <tr> <td width="62%" valign="top">
+ <!-- ===================== ABOUT ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:7B2FF7,100:FF4D8D&text=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20About%20Me&fontColor=ffffff&fontSize=26" width="100%" alt="About Me"/> </div> <br/> <div align="center"> <table> <tr> <td width="62%" valign="top">
 
 Hi, I'm Dhanyashree 👋
 
@@ -19,18 +19,18 @@ I'm a final-year Robotics & AI engineering student who builds AI and LLM solutio
 🏢 At Bosch India, I turned 20 years of unstructured records into a searchable repository with an LLM chatbot.<br/> 🛰️ At BEL, I built a document summarization system for defence personnel.<br/> 🧠 I co-designed a product with a child psychiatrist and piloted it with schools and patients.
 
 </td> <td width="38%" valign="top" align="center">
-🎯 Looking for
+
 
 AI / ML Engineering<br/> GenAI & LLM Applications<br/> NLP · Data Analytics
 
-<sub>Internships & entry-level roles</sub>
 
-</td> </tr> </table> </div> <br/> <!-- ===================== NUMBERS ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:00D9FF,100:7B2FF7&text=%E2%9C%A8%20At%20a%20Glance&fontColor=ffffff&fontSize=26" width="100%" alt="At a Glance"/> </div> <br/> <div align="center"> <table> <tr> <td align="center" width="20%"> <h1>🎓</h1> <b>8.54</b><br/> <sub>CGPA · B.E. Robotics & AI</sub> </td> <td align="center" width="20%"> <h1>📄</h1> <b>200+</b><br/> <sub>PDF reports structured at Bosch</sub> </td> <td align="center" width="20%"> <h1>🕰️</h1> <b>20 yrs</b><br/> <sub>of records made searchable</sub> </td> <td align="center" width="20%"> <h1>🎯</h1> <b>~93%</b><br/> <sub>accuracy · digital twin classifier</sub> </td> <td align="center" width="20%"> <h1>🥇</h1> <b>State 6th</b><br/> <sub>Rank · SSLC (98.72%)</sub> </td> </tr> </table> </div> <br/> <!-- ===================== EXPERIENCE ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:FF4D8D,100:FFB400&text=%F0%9F%92%BC%20Experience&fontColor=ffffff&fontSize=26" width="100%" alt="Experience"/> </div> <br/> <table> <tr> <td width="50%" valign="top">
+
+</td> </tr> </table> </div> <br/> <!-- ===================== NUMBERS ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:00D9FF,100:7B2FF7&text=%E2%9C%A8%20At%20a%20Glance&fontColor=ffffff&fontSize=26" width="100%" alt="At a Glance"/> </div> <br/> <div align="center"> <table> <tr> <td align="center" width="20%"> <h1>🎓</h1> <b>8.54</b><br/> <sub>CGPA · B.E. Robotics & AI</sub> </td> <td align="center" width="20%"> <h1>📄</h1> <b> BOSCH INDIA </b><br/> <sub> Intelligent application </sub> </td> <td align="center" width="20%"> <h1>🕰️</h1> <b> BEL </b><br/> <sub>RESEARCH</sub> </td> <td align="center" width="20%"> <h1>🎯</h1> <b>~93%</b><br/> <sub></sub> </td> <td align="center" width="20%"> <h1>🥇</h1> <b>State 6th</b><br/> <sub>Rank · SSLC (98.72%)</sub> </td> </tr> </table> </div> <br/> <!-- ===================== EXPERIENCE ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:FF4D8D,100:FFB400&text=%F0%9F%92%BC%20Experience&fontColor=ffffff&fontSize=26" width="100%" alt="Experience"/> </div> <br/> <table> <tr> <td width="50%" valign="top">
 🏢 Bosch India
 
 Application AI & Data Engineer Intern<br/> <img src="https://img.shields.io/badge/Feb%202026%20%E2%80%93%20Apr%202026-00D9FF?style=flat-square&labelColor=0D1117"/>
 
-🚀 Owned an IPO project end-to-end, taking vibration-data requirements from stakeholders to a working Streamlit app
+🚀 taking vibration-data requirements from stakeholders to a working Streamlit app
 📚 Converted 20 years of unstructured records from 200+ PDF reports into a structured, searchable repository
 💬 Integrated an LLM chatbot so non-technical users can upload, store and query data in natural language
 🤝 Coordinated setup, integration and configuration, and documented the workflow for handover
@@ -49,7 +49,7 @@ AI/ML Engineer Intern · Software SBU<br/> <img src="https://img.shields.io/badg
 
 🎮 ADHD screening, cognitive games, CBT activities
 😊 Emotion detection, parent–psychiatrist login, weekly reports
-🩺 Co-designed with a child psychiatrist; piloted with government-school children and patients
+🩺 Co-designed with a child psychiatrist; 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Face--API.js-7B2FF7?style=flat-square"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 
 🔗 View Project <!-- replace with repo link -->
@@ -149,7 +149,6 @@ SSLC<br/> Hymamshu Jyothi Kala Peetha<br/> <img src="https://img.shields.io/badg
 
 </td> </tr> </table> <br/> <!-- ===================== GITHUB STATS ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:00D9FF,100:00E5A0&text=%F0%9F%93%88%20GitHub%20Activity&fontColor=0D1117&fontSize=26" width="100%" alt="GitHub Activity"/> </div> <br/> <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=dhanyaa07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF4D8D&text_color=C9D1D9" alt="GitHub stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyaa07&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB400&text_color=C9D1D9" alt="Top languages"/> </div> <br/> <!-- ===================== EXPLORING ===================== --> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&color=7B2FF7&center=true&vCenter=true&width=700&lines=%F0%9F%94%AC+Currently+exploring...;Advanced+LLM+Applications+%E2%9C%A8;Agentic+AI+%F0%9F%A4%96;Computer+Vision+%F0%9F%91%81%EF%B8%8F;Cloud+%26+MLOps+%E2%98%81%EF%B8%8F" alt="Currently exploring"/> </div> <br/> <!-- ===================== CONTACT ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:FF4D8D,100:7B2FF7&text=%F0%9F%93%AC%20Let%27s%20Connect&fontColor=ffffff&fontSize=26" width="100%" alt="Let's Connect"/> </div> <br/> <div align="center">
 
-Open to internships, full-time roles and collaborations in AI/ML, GenAI and Data Analytics.
 
 <a href="https://www.linkedin.com/in/dhanyashree-n-0b2b72294/"><img src="https://img.shields.io/badge/LinkedIn-Dhanyashree%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:dhanyashree573@gmail.com"><img src="https://img.shields.io/badge/Email-dhanyashree573%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/dhanyaa07"><img src="https://img.shields.io/badge/GitHub-dhanyaa07-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
