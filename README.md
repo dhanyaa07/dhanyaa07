@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F00FF,50:E100FF,100:00D4FF&text=DHANYASHREE%20N&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20GENERATIVE%20AI&descSize=15&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F00FF,50:E100FF,100:00D4FF&text=DHANYASHREE%20N&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DATA ENGINEERING%20AI&descSize=15&descAlignY=58&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+the+Making+%F0%9F%A4%96;Building+Intelligent+AI+Solutions+%F0%9F%A7%A0;Exploring+GenAI%2C+NLP+%26+RAG+%E2%9C%A8;Turning+Ideas+Into+Impactful+Projects+%F0%9F%9A%80" alt="Typing SVG" />
