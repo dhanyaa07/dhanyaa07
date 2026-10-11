@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,45:9333EA,100:EC4899&text=DHANYASHREE%20N&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=ROBOTICS%20%7C%20AI%20%7C%20INTELLIGENT%20SYSTEMS&descSize=15&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,45:9333EA,100:EC4899&text=DHANYASHREE%20N&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20AI%20%7C%20INTELLIGENT%20SYSTEMS&descSize=15&descAlignY=58&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+AI+Solutions+for+Real-World+Problems;From+Unstructured+Documents+to+Intelligent+Insights;LLMs+%7C+RAG+%7C+NLP+%7C+Machine+Learning;Engineering+Technology+with+Purpose" alt="Typing SVG" />
 
@@ -266,47 +266,6 @@ A document question-answering platform that allows users to upload documents and
 
 ---
 
-## 🎓 Education
-
-<table>
-<tr>
-<td valign="top" width="70%">
-
-**Bangalore Institute of Technology, Bengaluru**  
-B.E. — Robotics and Artificial Intelligence · VTU  
-2023–2027
-
-</td>
-<td valign="middle" align="center" width="30%">
-<img src="https://img.shields.io/badge/CGPA-8.54%2F10-7C3AED?style=for-the-badge" alt="CGPA 8.54" />
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**MES Kishore Kendra PU College, Bengaluru**  
-Pre-University — PCMC · KSEEB  
-2021–2023
-
-</td>
-<td valign="middle" align="center">
-<img src="https://img.shields.io/badge/Score-92.5%25-0891B2?style=for-the-badge" alt="92.5 percent" />
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**Hymamshu Jyothi Kala Peetha, Bengaluru**  
-SSLC · 2008–2021
-
-</td>
-<td valign="middle" align="center">
-<img src="https://img.shields.io/badge/Score-98.72%25-DB2777?style=for-the-badge" alt="98.72 percent" />
-</td>
-</tr>
-</table>
-
----
 
 ## 🏆 Leadership & Achievements
 
