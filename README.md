@@ -1,7 +1,4 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FFB400,35:FF4D8D,70:7B2FF7,100:00D9FF&section=footer" width="100%" alt="footer"/> </div>
-DHANYASHREE N 
-
+ <!-- ===================== DHANYASHREE N ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:7B2FF7,100:FF4D8D&text=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20About%20Me&fontColor=ffffff&fontSize=26" width="100%" alt="DHANYASHREE N"/> </div> <br/> <div align="center"> <table> <tr> <td width="62%" valign="top">
 <br/><br/>
 
 <!-- CONTACT BUTTONS -->
